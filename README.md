@@ -1,6 +1,23 @@
 # ENUMO
-**ENUOG** is an automated web reconnaissance and exploitation toolkit designed to streamline your pentesting workflow. It combines multiple powerful tools into one script for quick and thorough assessment of target domains or IP addresses.
-## Requirements
+ENUMO — Automated Web Reconnaissance & Exploitation Toolkit
+
+ENUOG is a powerful, easy-to-use automation script designed to streamline the process of web reconnaissance and vulnerability discovery. Combining the capabilities of trusted security tools like Nmap, WhatWeb, Nikto, FFUF, Dalfox, and Searchsploit, ENUOG provides comprehensive scanning and analysis with minimal manual effort.
+
+Perfectly suited for penetration testers, bug bounty hunters, and CTF enthusiasts, ENUOG accelerates the enumeration and exploitation phases by automating the discovery of open ports, web technologies, directories, subdomains, potential XSS vulnerabilities, and known exploits.
+
+Key Benefits:
+
+Saves valuable time during CTF challenges and real-world penetration tests
+
+Helps identify hidden attack surfaces on target machines quickly
+
+Simplifies workflow by consolidating multiple reconnaissance tools into a single script
+
+Modular design allows skipping specific scans as needed
+
+Outputs well-organized reports for efficient analysis
+
+Whether you are solving complex CTF machines or conducting authorized security assessments, ENUOG provides a solid foundation to identify vulnerabilities and move towards exploitation faster and more effectively.
 
 Make sure the following tools are installed and accessible in your system’s PATH:
 
